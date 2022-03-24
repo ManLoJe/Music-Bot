@@ -2,9 +2,9 @@
 
 The perfect music bot for your Discord server! 🎶
 
-## Features
+Note: This code is not made by me! All credits reserved to [Androz2091](https://github.com/Androz2091/)
 
-### Highlights
+## Features
 
 * Simple & easy to use 🤘
 * Audio filters (bassboost) 🎸
