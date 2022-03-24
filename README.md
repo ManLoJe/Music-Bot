@@ -2,6 +2,7 @@
 
 The perfect music bot for your Discord server! 🎶
 
+Note: This code is not made by me! All rights reserved to [Androz2091](https://github.com/Androz2091/)
 
 ## Features
 
